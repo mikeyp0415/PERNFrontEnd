@@ -7,10 +7,13 @@ Built using <strong>React, React-Router, NodeJS, Bootstrap, and Jquery.</strong>
 
 <strong>Dependencies:</strong>
 
-- express
-- body-parser
-- morgan
-- pg
+- bootstrap
+- react
+- react-router-dom
+- react-dom
+- react-scripts
+- jquery
+- popper
 
 Install all dependencies individually or using <strong>npm install</strong>
 
