@@ -11,7 +11,7 @@ Built using <strong>React, React-Router, NodeJS, Bootstrap, and Jquery.</strong>
 - body-parser
 - morgan
 - pg
-- 
+
 Install all dependencies individually or using <strong>npm install</strong>
 
 <strong>DO NOT RUN THE APPLICATION ON PORT 3000</strong> It's reserved for the Backend. Use port 3001 or another port.
