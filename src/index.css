@@ -11,3 +11,75 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.start {
+  margin-top: 80px;
+}
+
+
+form button {
+  background-color: black;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.LOGIN {
+  display: table;
+  height: 70vh;
+}
+
+#superTest {
+display: flex;
+flex-wrap: wrap;
+}
+
+.userDiv {
+  display: flex;
+}
+
+
+#loginElements {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+
+#footerLinks {
+  display: flex;
+  text-align: center;
+  width: 200px;
+  margin: auto;
+}
+
+#footerLinks p {
+  margin: auto;
+}
+
+#LF {
+  display: none;
+}
+
+#changeNameForm {
+  display: none;
+}
+
+@media only screen and (min-width: 991px) {
+
+  ul {
+    width: 400px;
+  }
+  
+  ul li {
+    margin: auto;
+  }
+  
+}
